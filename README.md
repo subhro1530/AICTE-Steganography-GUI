@@ -2,6 +2,13 @@
 
 This project provides a CLI and GUI-based steganography system to encode and decode hidden messages within images using different techniques.
 
+## Installation:
+Ensure you have Python installed (>=3.8). Then, install the required dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## This is the GUI for embedding a text file into image
 ![GUI Preview](image.png)
 
