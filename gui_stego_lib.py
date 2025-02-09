@@ -1,3 +1,5 @@
+# gui_stego_lib.py
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from stegano import lsb
